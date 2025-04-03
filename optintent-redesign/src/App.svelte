@@ -2,6 +2,7 @@
 </script>
 
 <main>
+  <p>Hemlo.</p>
 </main>
 
 <style>
